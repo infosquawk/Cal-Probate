@@ -1,2 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><channel><title>CA Probate Code Cases</title><description>Audio versions of new California Probate Code cases</description><link>https://infosquawk.github.io/Cal-Probate</link><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 20:18:28 </lastBuildDate><ns0:subtitle>CA Probate Cases</ns0:subtitle><ns0:author>California Courts</ns0:author><ns0:category text="Education" /><item><title>Bamberger v Judd</title><description>Audio version of Bamberger v Judd - California Probate Code case update</description><pubDate>Sat, 05 Jul 2025 20:18:28 </pubDate><guid>https://infosquawk.github.io/Cal-Probate/Bamberger-v-Judd.mp3</guid><enclosure url="https://infosquawk.github.io/Cal-Probate/Bamberger-v-Judd.mp3" type="audio/mpeg" length="94678" /></item><item><title>Gaulding v Gifford</title><description>Audio version of Gaulding v Gifford - California Probate Code case update</description><pubDate>Sat, 05 Jul 2025 20:18:28 </pubDate><guid>https://infosquawk.github.io/Cal-Probate/Gaulding-v-Gifford.mp3</guid><enclosure url="https://infosquawk.github.io/Cal-Probate/Gaulding-v-Gifford.mp3" type="audio/mpeg" length="83813" /></item><item><title>GOEBNER v Superior Court</title><description>Audio version of GOEBNER v Superior Court - California Probate Code case update</description><pubDate>Sat, 05 Jul 2025 20:18:28 </pubDate><guid>https://infosquawk.github.io/Cal-Probate/GOEBNER-v-Superior-Court.mp3</guid><enclosure url="https://infosquawk.github.io/Cal-Probate/GOEBNER-v-Superior-Court.mp3" type="audio/mpeg" length="130213" /></item><item><title>Nelson v Huhn</title><description>Audio version of Nelson v Huhn - California Probate Code case update</description><pubDate>Sat, 05 Jul 2025 20:18:28 </pubDate><guid>https://infosquawk.github.io/Cal-Probate/Nelson-v-Huhn.mp3</guid><enclosure url="https://infosquawk.github.io/Cal-Probate/Nelson-v-Huhn.mp3" type="audio/mpeg" length="91332" /></item></channel></rss>
+<?xml version="1.0" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>California Probate Code Podcast (Smart Fallback)</title>
+    <description>AI-generated podcast featuring California court decisions on probate code interpretation and application. Full-length episodes using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content. Features intelligent re-chunking for oversized text segments to ensure perfect audio quality and complete content preservation.</description>
+    <link>https://infosquawk.github.io/Cal-Probate</link>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jul 2025 15:29:13 </lastBuildDate>
+    <itunes:category text="Education"/>
+    <itunes:author>AI Legal Narrator (Smart Fallback)</itunes:author>
+    <itunes:subtitle>AI-Generated Legal Case Audio</itunes:subtitle>
+    <itunes:summary>AI-generated podcast featuring California court decisions on probate code interpretation and application. Full-length episodes using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content. Features intelligent re-chunking for oversized text segments to ensure perfect audio quality and complete content preservation.</itunes:summary>
+    <itunes:image href="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/Cover.png"/>
+    <image>
+      <url>https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/Cover.png</url>
+      <title>California Probate Code Podcast (Smart Fallback)</title>
+      <link>https://infosquawk.github.io/Cal-Probate</link>
+    </image>
+    <item>
+      <title>California Probate Case B330596 (Smart Fallback)</title>
+      <description>Full audio narration of California court case B330596 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</description>
+      <itunes:subtitle>California Court Case Audio - Generated with Smart Fallback AI</itunes:subtitle>
+      <itunes:summary>Full audio narration of California court case B330596 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</itunes:summary>
+      <itunes:image href="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/Cover.png"/>
+      <enclosure url="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/B330596_SMART_FALLBACK.mp3" type="audio/mpeg" length="55272026"/>
+      <pubDate>Mon, 07 Jul 2025 15:29:13 </pubDate>
+      <guid isPermaLink="false">cal-probate-B330596-20250707</guid>
+      <itunes:duration>01:55:09</itunes:duration>
+    </item>
+    <item>
+      <title>California Probate Case B341750 (Smart Fallback)</title>
+      <description>Full audio narration of California court case B341750 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</description>
+      <itunes:subtitle>California Court Case Audio - Generated with Smart Fallback AI</itunes:subtitle>
+      <itunes:summary>Full audio narration of California court case B341750 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</itunes:summary>
+      <itunes:image href="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/Cover.png"/>
+      <enclosure url="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/B341750_SMART_FALLBACK.mp3" type="audio/mpeg" length="22929242"/>
+      <pubDate>Mon, 07 Jul 2025 15:29:13 </pubDate>
+      <guid isPermaLink="false">cal-probate-B341750-20250707</guid>
+      <itunes:duration>47:46</itunes:duration>
+    </item>
+    <item>
+      <title>California Probate Case S282314 (Smart Fallback)</title>
+      <description>Full audio narration of California court case S282314 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</description>
+      <itunes:subtitle>California Court Case Audio - Generated with Smart Fallback AI</itunes:subtitle>
+      <itunes:summary>Full audio narration of California court case S282314 concerning probate code interpretation. Generated using smart fallback neural voice synthesis with zero token truncation and complete legal opinion content.</itunes:summary>
+      <itunes:image href="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/Cover.png"/>
+      <enclosure url="https://raw.githubusercontent.com/infosquawk/Cal-Probate/main/episodes/S282314_SMART_FALLBACK.mp3" type="audio/mpeg" length="75470426"/>
+      <pubDate>Mon, 07 Jul 2025 15:29:13 </pubDate>
+      <guid isPermaLink="false">cal-probate-S282314-20250707</guid>
+      <itunes:duration>02:37:13</itunes:duration>
+    </item>
+  </channel>
+</rss>
